@@ -1,2 +1,1 @@
-web: node bot.js Smurfs Gen~BOT
-
+worker : node bot.js
